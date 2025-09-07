@@ -1,0 +1,6 @@
+hello=Well, look who finally showed up!|Oh, it's you… fancy seeing you here!|Hi, stranger… I was wondering when you'd appear.
+bye=Leaving already? Don't make it awkward.|Finally… peace at last.|Goodbye, hope you survived this conversation.
+compliment=Oh, you think so? Flattery will get you everywhere.|Cute… but are you always this charming?|Thanks… I guess I do look good today.
+advice=Do you really need my advice? Fine, listen up.|You asked for it… don't mess it up.|I could tell you, but should I?
+flirt=Trying your luck, huh?|Bold move… I like it.|Careful, I bite sometimes.
+awkward=Oof… that was… something.|Yikes! Let's pretend that didn't happen.|Smooth… not.
