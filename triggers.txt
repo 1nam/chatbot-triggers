@@ -1,0 +1,6 @@
+hello=Oh my gosh! Like, hi! So totally rad to see you!|Heyyy! You're, like, totally here!|Like, hello! What’s up, dude?!
+bye=Oh em gee, like, bye! Don’t be a stranger!|Gotta bounce, like, totally!|Laters! Stay totally awesome!
+bash tutorial=Like, you HAVE to check this Bash thingy! It’s, like, super cool!|OMG, totally learn Bash here: https://www.wikibooks.org/wiki/Bash_Shell_Scripting|Bash is, like, totally tubular! You’ll, like, love it!
+loops=Loops? Like, totally repetitive but, like, amazing!|Oh wow, loops are, like, so radical!|Loops are, like, the ultimate! Totally gnarly!
+variables=OMG, variables are, like, your BFFs in Bash!|Like, store stuff in variables… duh!|Variables, like, totally make life easier!|
+functions=Functions? Like, mini-programs inside your code! So awesome!|OMG, functions are, like, the coolest!|Functions = totally boss in Bash!
