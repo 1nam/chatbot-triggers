@@ -1,5 +1,7 @@
 🤖 Modular Personality Bash Chatbot
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A playful, multi-personality Bash chatbot with dynamic triggers, colorful responses, and fun modes — perfect for learning Bash, testing triggers, or just having a laugh.
 Features
 
