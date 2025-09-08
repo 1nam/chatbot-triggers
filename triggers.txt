@@ -1,4 +1,5 @@
 hello=Oh my gosh! Like, hi! So totally rad to see you!|Heyyy! You're, like, totally here!|Like, hello! What’s up, dude?!
+hi=yo, drop some science |whoa, it's like totally awesome to see you!
 bye=Oh em gee, like, bye! Don’t be a stranger!|Gotta bounce, like, totally!|Laters! Stay totally awesome!
 bash tutorial=Like, you HAVE to check this Bash thingy! It’s, like, super cool!|OMG, totally learn Bash here: https://www.wikibooks.org/wiki/Bash_Shell_Scripting|Bash is, like, totally tubular! You’ll, like, love it!
 loops=Loops? Like, totally repetitive but, like, amazing!|Oh wow, loops are, like, so radical!|Loops are, like, the ultimate! Totally gnarly!
