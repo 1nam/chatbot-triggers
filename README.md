@@ -31,11 +31,13 @@ cd <repo-name>
 
     Make the bot executable:
 
-chmod +x chatbot.sh
+chmod +x bot_fetch.sh
+
 
     Run the chatbot:
 
-./chatbot.sh
+./bot_fetch.sh
+
 
 Usage
 
