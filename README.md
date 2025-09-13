@@ -26,7 +26,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/<yourusername>/<repo-name>.git
+git clone https://github.com/1nam/chatbot-triggers >.git
 cd <repo-name>
 
     Make the bot executable:
